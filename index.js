@@ -25,7 +25,7 @@ client.on('ready', async () => {
   const r = new Discord.RichPresence()
     .setApplicationId('1111020519710527578')
     .setType('STREAMING')
-    .setURL('https://www.twitch.tv/s%D0%B5lfish') //Must be a youtube video link 
+    .setURL('https://www.twitch.tv/developer') //Must be a youtube video link 
     .setState('harm')
     .setName('owner')
     .setDetails(`/law for 23.381 servers [${formatTime()}]`)
