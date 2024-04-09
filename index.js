@@ -30,10 +30,10 @@ client.on('ready', async () => {
     .setName('owner')
     .setDetails(`/law for 23.381 servers [${formatTime()}]`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1038784017203470408/1210956243368288296/34.gif?ex=65fee6e2&is=65ec71e2&hm=ce4d2680634c515b625b2b760832154e7248d8c88aa1a378bff163116f7b29b3&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('carve') //Text when you hover the Large image
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1038784017203470408/1210956243368288296/34.gif?ex=6623d0e2&is=66115be2&hm=3a8f8a6c6fa322b39852645a2df32c026af9a25c337e5fd780e9db699fcdabd3&') //You can put links in tenor or discord and etc.
+    .setAssetsLargeText('owner') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/967776024811147295.gif?size=96&quality=lossless') //You can put links in tenor or discord and etc.
-    .setAssetsSmallText('doxx') //Text when you hover the Small image
+    .setAssetsSmallText('!!!') //Text when you hover the Small image
     .addButton('law', 'https://discord.com/')
     .addButton('selfish', 'https://e-z.bio/selfish');
 
