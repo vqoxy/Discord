@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('owner')
     .setDetails(`/law for 23.381 servers [${formatTime()}]`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1038784017203470408/1210956243368288296/34.gif?ex=6623d0e2&is=66115be2&hm=3a8f8a6c6fa322b39852645a2df32c026af9a25c337e5fd780e9db699fcdabd3&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1038784017203470408/1231996102039834694/766bce29f40ff5faa9e21515674dcd42.gif?ex=66288208&is=66273088&hm=26b999f4ea8d13134455d102c7e6f4a19c7290bd529dbf21dbb77eb5f4c85b2f&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('owner') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/967776024811147295.gif?size=96&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('!!!') //Text when you hover the Small image
